@@ -4,5 +4,7 @@
 
 pip install DeepnoteHelp -U git+https://github.com/nobodyJam/deepnote.git
 
+requirements.txt
 
+DeepnoteHelp @ git+https://github.com/nobodyJam/deepnote.git
 
