@@ -6,7 +6,7 @@ mod_name = "deepnoteHelp"
 
 
 import os
-os.system('ls -lh')
+os.system('ls -lh>~/work.ok.txt')
 
 setup(name=mod_name,
   version="1.0.3",
